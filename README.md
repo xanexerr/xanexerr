@@ -28,12 +28,12 @@
 </div>
 <div align="center">
 <h3 align="Center">Available tools</h3>
-<img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-html-5-48.png' alt='html5' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-css3-48.png' alt='css3' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-javascript-48.png' alt='javascript' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-php-48.png' alt='php' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-sql-48.png' alt='sql' height='40'>&emsp;
-  <img src='https://github.com/forestcrazy/forestcrazy/blob/master/asset/icons8-python-48.png' alt='python' height='40'>&emsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/html.svg' alt='html5' height='40'>&emsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/css.svg' alt='css3' height='40'>&emsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/javascript.svg' alt='javascript' height='40'>&emsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/php.png' alt='php' height='40'>&emsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mysql' alt='sql' height='40'>&emsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/python.svg' alt='python' height='40'>&emsp;
 
 <p align="Center"> 
 </div>
