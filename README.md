@@ -10,7 +10,10 @@
 <a href="https://instagram.com/s.ntpumin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.ntpumin" height="30" width="40" /></a>
 
 </p>
-<h1></h1>
+<h1>
+  
+</h1>
+
 <div align="center">
 <h1 align="Center">Available tools</h1>
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-html-5-48.png' alt='html5' height='50'>&nbsp;
