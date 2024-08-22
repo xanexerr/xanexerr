@@ -34,7 +34,7 @@
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/php.png' alt='php' height='50'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mysql.svg' alt='sql' height='50'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/python.svg' alt='python' height='50'>&nbsp;
-
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/VB.NET_Logo.svg.png' alt='vb' height='50'>&nbsp;
 <p align="Center"> 
 </div>
 
