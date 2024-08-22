@@ -15,7 +15,7 @@
 </h1>
 
 <div align="center">
-<h1 align="Center">Available tools</h1>
+<h2 align="Center">Available tools</h1>
 <br>
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-html-5-48.png' alt='html5' height='50'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-css3-48.png' alt='css3' height='50'>&nbsp;
