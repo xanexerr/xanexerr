@@ -38,7 +38,7 @@
 <br>
 <div align="center">
 <h3 align="Center">Framework</h3>
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/boostrap.svg' alt='bootstrap' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-bootstrap-48.png' alt='bootstrap' height='40'>&nbsp;
 </div>
 <br>
 <div align="center">
