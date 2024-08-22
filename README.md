@@ -26,7 +26,7 @@
 <img src="https://github.com/xanexerr/xanexerr/blob/main/icon/Notion-logo.svg.png" alt="Notion" width="40" height="40"/> &nbsp;
 <br>
 </div>
-
+<br>
 <div align="center">
 <h3 align="Center">Available tools</h3>
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-html-5-48.png' alt='html5' height='50'>&nbsp;
