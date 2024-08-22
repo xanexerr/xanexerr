@@ -46,7 +46,7 @@
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-kotlin-48.png' alt='kotlin' height='40'>&nbsp;
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-java-48.png' alt='java' height='40'>&nbsp;
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-c++-48.png' alt='c' height='40'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/c-sharp-c.svg' alt='c#' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/c-sharp-c.svg' alt='c#' height='38'>&nbsp;
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/laravel.svg' alt='laravel' height='40'>&nbsp;
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-typescript-48.png' alt='typescript' height='40'>&nbsp;
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-vue-js-48.png' alt='vuejs' height='40'>&nbsp;
