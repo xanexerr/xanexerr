@@ -10,7 +10,17 @@
 <a href="https://instagram.com/s.ntpumin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.ntpumin" height="30" width="40" /></a>
 
 </p>
-
+<div align="center">
+<h3 align="Center">Available tools</h3>
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-html-5-48.png' alt='html5' height='50'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-css3-48.png' alt='css3' height='50'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/javascript.svg' alt='javascript' height='50'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/php.png' alt='php' height='50'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mysql.svg' alt='sql' height='50'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/python.svg' alt='python' height='50'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/VB.NET_Logo.svg.png' alt='vb' height='40'>&nbsp;
+<p align="Center"> 
+</div>
 <br>
 <div align="center">
 <h3 align="Center">Software</h3>
@@ -24,18 +34,7 @@
 <br>
 </div>
 <br>
-<div align="center">
-<h3 align="Center">Available tools</h3>
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-html-5-48.png' alt='html5' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-css3-48.png' alt='css3' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/javascript.svg' alt='javascript' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/php.png' alt='php' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mysql.svg' alt='sql' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/python.svg' alt='python' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/VB.NET_Logo.svg.png' alt='vb' height='40'>&nbsp;
-<p align="Center"> 
-</div>
-<br>
+
 <div align="center">
 <h3 align="Center">Framework</h3>
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-bootstrap-48.png' alt='bootstrap' height='40'>&nbsp;
