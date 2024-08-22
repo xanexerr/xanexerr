@@ -20,6 +20,7 @@
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mysql.svg' alt='sql' height='50'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/python.svg' alt='python' height='50'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/VB.NET_Logo.svg.png' alt='vb' height='40'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-bootstrap-48.png' alt='bootstrap' height='40'>&nbsp;
 <p align="Center"> 
 </div>
 
@@ -36,13 +37,9 @@
 </div>
 <br>
 
+
 <div align="center">
-<h3 align="Center">Framework</h3>
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-bootstrap-48.png' alt='bootstrap' height='40'>&nbsp;
-</div>
-<br>
-<div align="center">
-<h3 align="Center">My Interest Tool</h3>
+<h3 align="Center">Interest</h3>
   
 </div>
 <br>
