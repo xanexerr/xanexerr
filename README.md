@@ -49,7 +49,6 @@
   
 </div>
 
-<br>
 <div align="center">
 <h3 align="Center">Status</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xanexerr&show_icons=true&locale=en&layout=compact" alt="xanexerr" height='200' /></p>
