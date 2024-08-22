@@ -56,7 +56,7 @@
 </div>
 <br>
 <div align="center">
-<h3 align="Center">Status</h3>
+<h2 align="Center">Coding Status</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xanexerr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
