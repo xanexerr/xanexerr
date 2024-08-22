@@ -10,7 +10,7 @@
 <a href="https://instagram.com/s.ntpumin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.ntpumin" height="30" width="40" /></a>
 </p>
 </div>
-
+<br>
 
 <div align="center">
 <h2 align="Center">Available tools<br></h1>
