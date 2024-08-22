@@ -41,7 +41,7 @@
 
 
 <div align="center">
-<h3 align="Center">Interest</h3>
+<h2 align="Center">Interest</h3>
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-react-native-48.png' alt='react' height='40'>&nbsp;
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/next-js.svg' alt='nextjs' height='40'>&nbsp;
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mongodb.svg' alt='mongo' height='40'>&nbsp;
