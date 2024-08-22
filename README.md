@@ -39,6 +39,8 @@
 </div>
 
 
+<div align="center">
+<h3 align="Center">Status</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xanexerr&show_icons=true&locale=en&layout=compact" alt="xanexerr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xanexerr&show_icons=true&locale=en" alt="xanexerr" /></p>
