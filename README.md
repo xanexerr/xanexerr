@@ -28,7 +28,7 @@
 </div>
 <div align="center">
 <h3 align="Center">Available tools</h3>
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/html.svg' alt='html5' height='50'>&emsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/iconicons8-html-5-48.png' alt='html5' height='50'>&emsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/css.svg' alt='css3' height='50'>&emsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/javascript.svg' alt='javascript' height='50'>&emsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/php.png' alt='php' height='50'>&emsp;
