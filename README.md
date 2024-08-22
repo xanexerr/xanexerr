@@ -26,6 +26,7 @@
 <img src="https://github.com/xanexerr/xanexerr/blob/main/icon/Notion-logo.svg.png" alt="Notion" width="40" height="40"/> &nbsp;
 
 </div>
+
 <div align="center">
 <h3 align="Center">Available tools</h3>
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-html-5-48.png' alt='html5' height='50'>&nbsp;
@@ -37,8 +38,7 @@
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/VB.NET_Logo.svg.png' alt='vb' height='40'>&nbsp;
 <p align="Center"> 
 </div>
-
-
+<br>
 <div align="center">
 <h3 align="Center">Status</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xanexerr&show_icons=true&locale=en&layout=compact" alt="xanexerr" /></p>
