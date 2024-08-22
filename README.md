@@ -17,23 +17,23 @@
 <br>
 <div align="center">
 <h3 align="Center">Software</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1262px-XAMPP_logo.svg.png" alt="XAMPP" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/150px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1262px-XAMPP_logo.svg.png" alt="XAMPP" width="40" height="40"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/150px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" width="40" height="40"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/> &nbsp;
 
 </div>
 <div align="center">
 <h3 align="Center">Available tools</h3>
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-html-5-48.png' alt='html5' height='40'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-css3-48.png' alt='css3' height='40'>&emsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/javascript.svg' alt='javascript' height='40'>&emsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/php.png' alt='php' height='40'>&emsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mysql.svg' alt='sql' height='40'>&emsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/python.svg' alt='python' height='40'>&emsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-css3-48.png' alt='css3' height='40'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/javascript.svg' alt='javascript' height='40'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/php.png' alt='php' height='40'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mysql.svg' alt='sql' height='40'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/python.svg' alt='python' height='40'>&nbsp;
 
 <p align="Center"> 
 </div>
