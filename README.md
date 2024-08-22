@@ -1,15 +1,16 @@
 <h1 align="center">👋 Hi, I'm Xanexer Can Call Me Xan,Sand 👋</h1>
 <h3 align="center">DST Student At ICT, Mahidol University</h3>
-<h3 align="center">My Contact</h3>
 
-
-<p align="center">
+<div align="center">
+<h3 align="center">Contact</h3>
+<p align="center">  
 <a href="https://twitter.com/xanexer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xanexer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/natthapumin klammat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natthapumin klammat" height="30" width="40" /></a>
 <a href="https://fb.com/natthapumin klammat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="natthapumin klammat" height="30" width="40" /></a>
 <a href="https://instagram.com/s.ntpumin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.ntpumin" height="30" width="40" /></a>
-
 </p>
+</div>
+
 
 <div align="center">
 <h2 align="Center">Available tools<br></h1>
