@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Xanexer Can Call Me Xan,Sand 👋</h1>
-<h3 align="center">DST Student At ICT, Mahidol University</h3>
+<h3 align="center">👩‍💻 DST Student At ICT, Mahidol University 👩‍💻</h3>
 
 <div align="center">
-<h3 align="center">Contact</h3>
+<h3 align="center">💼 Contact 💼</h3>
 <p align="center">  
 <a href="https://twitter.com/xanexer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xanexer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/natthapumin klammat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natthapumin klammat" height="30" width="40" /></a>
@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-<h2 align="Center">Available tools<br></h1>
+<h2 align="Center">🛠 Available tools 🛠<br></h1>
 
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-html-5-48.png' alt='html5' height='50'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-css3-48.png' alt='css3' height='50'>&nbsp;
