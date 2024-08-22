@@ -10,7 +10,7 @@
 <a href="https://instagram.com/s.ntpumin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.ntpumin" height="30" width="40" /></a>
 
 </p>
-<br>
+
 <div align="center">
 <h3 align="Center">Available tools</h3>
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-html-5-48.png' alt='html5' height='50'>&nbsp;
@@ -22,7 +22,7 @@
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/VB.NET_Logo.svg.png' alt='vb' height='40'>&nbsp;
 <p align="Center"> 
 </div>
-<br>
+
 <div align="center">
 <h3 align="Center">Software</h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>&nbsp;
