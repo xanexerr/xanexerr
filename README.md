@@ -21,7 +21,7 @@
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/php.png' alt='php' height='50'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mysql.svg' alt='sql' height='50'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/python.svg' alt='python' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/VB.NET_Logo.svg.png' alt='vb' padding-bottom="30" height='40'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/VB.NET_Logo.svg.png' alt='vb' margin-bottom="30" height='40'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-bootstrap-48.png' alt='bootstrap' height='45'>&nbsp;
 <p align="Center"> 
 </div>
