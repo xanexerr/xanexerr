@@ -40,7 +40,17 @@
 
 <div align="center">
 <h3 align="Center">Interest</h3>
-  
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/' alt='react' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/' alt='nextjs' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/' alt='mongo' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-kotlin-48.png' alt='kotlin' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-java-48.png' alt='java' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-c++-48.png' alt='c' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/c-sharp-c.svg' alt='c#' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/laravel.svg' alt='laravel' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-typescript-48.png' alt='typescript' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-vue-js-48.png' alt='vuejs' height='40'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-golang-48.png' alt='go' height='40'>&nbsp;
 </div>
 <br>
 <div align="center">
