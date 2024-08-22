@@ -23,7 +23,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1262px-XAMPP_logo.svg.png" alt="XAMPP" width="40" height="40"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/150px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" width="40" height="40"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/> &nbsp;
+<img src="https://github.com/xanexerr/xanexerr/blob/main/icon/Notion-logo.svg.png" alt="Notion" width="40" height="40"/> &nbsp;
 
 </div>
 <div align="center">
