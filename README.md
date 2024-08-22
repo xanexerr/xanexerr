@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hi, I'm Xanexer Can Call Me Xan,Sand 👋</h1>
 <h3 align="center">DST Student At ICT, Mahidol University</h3>
-
-<br>
-
 <h3 align="center">My Contact</h3>
 
 
@@ -41,7 +38,7 @@
 <br>
 <div align="center">
 <h3 align="Center">Framework</h3>
-  
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/boostrap.svg' alt='bootstrap' height='40'>&nbsp;
 </div>
 <br>
 <div align="center">
