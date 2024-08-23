@@ -1,8 +1,8 @@
 <h1 align="left">👩‍💻 Hi there</h1>
 <p align="left">I'm Xanexer feel free to call me Xan or Sand. I'm a passionate software developer and a first-year DST student at the Faculty of ICT, Mahidol University. I've been developing with PHP since 2022. </p>
 
-<div align="center">
-<h3 align="center">💼 Contact </h3>
+<div align="left">
+<h3 align="LEft">💼 Contact </h3>
 <p align="center">  
 <a href="https://twitter.com/xanexer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xanexer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/natthapumin klammat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natthapumin klammat" height="30" width="40" /></a>
