@@ -13,14 +13,14 @@
 <div align="left">
 <h2 align="left">🛠 Available tools<br></h2>
 
-<img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='html5' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-css3-48.png' alt='css3' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/javascript.svg' alt='javascript' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/php.png' alt='php' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mysql.svg' alt='sql' height='50'>&nbsp;
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/python.svg' alt='python' height='50'>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-bootstrap-48.png' alt='bootstrap' height='45'>&nbsp;
+<img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='html5' height='30'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-css3-48.png' alt='css3' height='30'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/javascript.svg' alt='javascript' height='30'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/php.png' alt='php' height='30'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mysql.svg' alt='sql' height='30'>&nbsp;
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/python.svg' alt='python' height='30'>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-bootstrap-48.png' alt='bootstrap' height='30'>&nbsp;
 <p align="Center"> 
 </div>
 
