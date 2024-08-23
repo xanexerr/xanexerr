@@ -22,7 +22,8 @@
 <img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='30'>&nbsp;
 <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='git' height='30'>&nbsp;
 <img src='https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD' height='30'>&nbsp;
-
+<img src='https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white' height='30'>&nbsp; 
+  
 <p align="Center"> 
 </div>
 
@@ -54,13 +55,13 @@
   <img src='https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white' alt='laravel' height='30'>&nbsp;
   <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='typescript' height='30'>&nbsp;
   <img src='https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D' alt='vuejs' height='30'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-golang-48.png' alt='go' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white' alt='go' height='30'>&nbsp;
   <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' height='30'>&nbsp; 
   <img src='https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' height='30'>&nbsp; 
   <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white' height='30'>&nbsp; 
-  <img src='' height='30'>&nbsp; 
-  <img src='' height='30'>&nbsp; 
-  <img src='' height='30'>&nbsp; 
+  <img src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' height='30'>&nbsp; 
+  <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' height='30'>&nbsp; 
+  <img src='https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white' height='30'>&nbsp; 
 </div>
 <br>
 <div align="center">
