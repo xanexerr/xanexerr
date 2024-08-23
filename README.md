@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="30" alt="dot-net logo"  />
 <img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='30'>&nbsp;
 <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='git' height='30'>&nbsp;
+<img src='https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD' height='30'>&nbsp;
 
 <p align="Center"> 
 </div>
