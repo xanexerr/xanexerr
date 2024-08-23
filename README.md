@@ -13,7 +13,7 @@
 <div align="left">
 <h2 align="left">🛠 Available tools<br></h2>
 
-<img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-html-5-48.png' alt='html5' height='50'>&nbsp;
+<img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='html5' height='50'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-css3-48.png' alt='css3' height='50'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/javascript.svg' alt='javascript' height='50'>&nbsp;
 <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/php.png' alt='php' height='50'>&nbsp;
