@@ -42,7 +42,7 @@
 
 
 <div align="left">
-<h3>Interest</h3>
+<h3>Interested and studying</h3>
   <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='react' height='30'>&nbsp;
   <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' alt='nextjs' height='30'>&nbsp;
   <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' height='30'>&nbsp;
