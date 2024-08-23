@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="30" alt="dot-net logo"  />
 <img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='30'>&nbsp;
 <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='git' height='30'>&nbsp;
+
 <p align="Center"> 
 </div>
 
@@ -41,17 +42,18 @@
 
 <div align="left">
 <h3>Interest</h3>
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-react-native-48.png' alt='react' height='40'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/next-js.svg' alt='nextjs' height='40'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mongodb.svg' alt='mongo' height='40'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-kotlin-48.png' alt='kotlin' height='40'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-java-48.png' alt='java' height='40'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-c++-48.png' alt='c' height='40'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/c-sharp-c.svg' alt='c#' height='38'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/laravel.svg' alt='laravel' height='40'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-typescript-48.png' alt='typescript' height='40'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-vue-js-48.png' alt='vuejs' height='40'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-golang-48.png' alt='go' height='40'>&nbsp;
+  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='react' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' alt='nextjs' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' height='30'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mongodb.svg' alt='mongo' height='30'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-kotlin-48.png' alt='kotlin' height='30'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-java-48.png' alt='java' height='30'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-c++-48.png' alt='c' height='30'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/c-sharp-c.svg' alt='c#' height='30'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/laravel.svg' alt='laravel' height='30'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-typescript-48.png' alt='typescript' height='30'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-vue-js-48.png' alt='vuejs' height='30'>&nbsp;
+  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-golang-48.png' alt='go' height='30'>&nbsp;
 </div>
 <br>
 <div align="center">
