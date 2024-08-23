@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi there</h1>
 <h3>👩‍💻</h3>
-<h3 align="left">I'm Xanexer—feel free to call me Xan or Sand. I'm a passionate software developer and a first-year DST student at the Faculty of ICT, Mahidol University. I've been developing with PHP since 2022. </h3>
+<h3 align="left">I'm Xanexer feel free to call me Xan or Sand. I'm a passionate software developer and a first-year DST student at the Faculty of ICT, Mahidol University. I've been developing with PHP since 2022. </h3>
 
 <div align="center">
 <h3 align="center">💼 Contact </h3>
