@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Xanexer Can Call Me Xan,Sand 👋</h1>
+<h1 align="center">👋 Hi, I'm Xanexer, Call Me Xan or Sand 👋</h1>
 <h3 align="center">👩‍💻 DST Student At ICT, Mahidol University </h3>
 
 <div align="center">
