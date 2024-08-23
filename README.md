@@ -46,15 +46,21 @@
   <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='react' height='30'>&nbsp;
   <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' alt='nextjs' height='30'>&nbsp;
   <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' height='30'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mongodb.svg' alt='mongo' height='30'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-kotlin-48.png' alt='kotlin' height='30'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-java-48.png' alt='java' height='30'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-c++-48.png' alt='c' height='30'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/c-sharp-c.svg' alt='c#' height='30'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/laravel.svg' alt='laravel' height='30'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-typescript-48.png' alt='typescript' height='30'>&nbsp;
-  <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-vue-js-48.png' alt='vuejs' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='mongo' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white' alt='kotlin' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' alt='java' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' alt='c' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white' alt='c#' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white' alt='laravel' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='typescript' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D' alt='vuejs' height='30'>&nbsp;
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-golang-48.png' alt='go' height='30'>&nbsp;
+  <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' height='30'>&nbsp; 
+  <img src='https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' height='30'>&nbsp; 
+  <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white' height='30'>&nbsp; 
+  <img src='' height='30'>&nbsp; 
+  <img src='' height='30'>&nbsp; 
+  <img src='' height='30'>&nbsp; 
 </div>
 <br>
 <div align="center">
