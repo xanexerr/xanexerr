@@ -12,7 +12,6 @@
 
 <div align="left">
 <h2 align="left">🛠 Available tools<br></h2>
-
 <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='html5' height='30'>&nbsp;
 <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='css3' height='30'>&nbsp;
 <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='javascript' height='30'>&nbsp;
@@ -21,6 +20,7 @@
 <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='python' height='30'>&nbsp;
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="30" alt="dot-net logo"  />
 <img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='30'>&nbsp;
+<img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='git' height='30'>&nbsp;
 <p align="Center"> 
 </div>
 
