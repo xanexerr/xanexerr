@@ -24,8 +24,8 @@
 <p align="Center"> 
 </div>
 
-<div align="center">
-<h3 align="Center">Software</h3>
+<div align="left">
+<h3>Software</h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> &nbsp;
@@ -39,8 +39,8 @@
 <br>
 
 
-<div align="center">
-<h3 align="Center">Interest</h3>
+<div align="left">
+<h3>Interest</h3>
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/icons8-react-native-48.png' alt='react' height='40'>&nbsp;
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/next-js.svg' alt='nextjs' height='40'>&nbsp;
   <img src='https://github.com/xanexerr/xanexerr/blob/main/icon/mongodb.svg' alt='mongo' height='40'>&nbsp;
@@ -57,7 +57,7 @@
 <div align="center">
 <h2 align="Center">Coding Status</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=xanexerr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xanexerr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
