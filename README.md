@@ -70,8 +70,6 @@
   
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanexerr&theme=dracula&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  <img src="https://github-profile-trophy.vercel.app/?username=xanexerr&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 </div>
