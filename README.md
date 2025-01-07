@@ -70,7 +70,7 @@
   
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanexerr&theme=dracula&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xanexerr)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 </div>
