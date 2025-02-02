@@ -1,5 +1,5 @@
 <h1 align="left">👩‍💻 Hi there</h1>
-<p align="left">I'm Xanexer, but you can call me Xan or Sand. A passionate software developer and first-year DST student at ICT, Mahidol University.
+<p align="left">I'm Xanexer, but you can call me Xan or Sand. A passionate software developer.
 
 I studied at Hatyai Technical College (2021–2024) and earned my Vocational Certificate. Currently, I'm pursuing my studies at Mahidol University, ICT (DST), since 2024.
 
