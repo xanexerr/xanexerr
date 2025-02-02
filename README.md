@@ -1,5 +1,13 @@
 <h1 align="left">👩‍💻 Hi there</h1>
-<p align="left">I'm Xanexer feel free to call me Xan or Sand. I'm a passionate software developer and a first-year DST student at the Faculty of ICT, Mahidol University. I've been developing with PHP since 2022. </p>
+<p align="left">I'm Xanexer, but you can call me Xan or Sand. A passionate software developer and first-year DST student at ICT, Mahidol University.
+
+I studied at Hatyai Technical College (2021–2024) and earned my Vocational Certificate. Currently, I'm pursuing my studies at Mahidol University, ICT (DST), since 2024.
+
+Passionate about web development, programming, and technology, always eager to learn and improve my skills.
+
+Let's build something awesome together! 🚀
+
+This keeps it detailed yet compact. Let me know if you need further tweaks! 😊</p>
 
 <div align="left">
 <h3 align="LEft">💼 Contact </h3>
