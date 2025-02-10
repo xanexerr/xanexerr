@@ -79,7 +79,9 @@ This keeps it detailed yet compact. Let me know if you need further tweaks! 😊
 <!--
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanexerr&theme=dracula&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanexerr&layout=donut&theme=dracula&langs_count=8 )](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](
+    https://github-readme-stats.vercel.app/api/top-langs/?username=xanexerr&layout=donut&theme=dracula&langs_count=8
+  )](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 </div>
