@@ -76,7 +76,6 @@ This keeps it detailed yet compact. Let me know if you need further tweaks! 😊
 <h2 align="Center">Coding Status</h3>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanexerr&theme=dracula&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 </div>
