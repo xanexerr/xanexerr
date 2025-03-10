@@ -72,10 +72,11 @@ This keeps it detailed yet compact. Let me know if you need further tweaks! 😊
   <img src='https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white' height='30'>&nbsp; 
 </div>
 <br>
+<!--
 <div align="center">
 <h2 align="Center">Coding Status</h3>
 <div align="center">
-  
+  --->
 </div>
 
 </div>
