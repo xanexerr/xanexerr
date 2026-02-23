@@ -72,7 +72,7 @@ This keeps it detailed yet compact. Let me know if you need further tweaks! 😊
   <img src='https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white' height='30'>&nbsp; 
 </div>
 <br>
-  <img src='https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white' height='30'>&nbsp; 
+  <img src='https://trophy.ryglcloud.net/?username=xanexerr'>&nbsp; 
 
 <!--
 <div align="center">
