@@ -13,7 +13,7 @@ This keeps it detailed yet compact. Let me know if you need further tweaks! 😊
 <h3 align="LEft">💼 Contact </h3>
 <a href="https://linkedin.com/in/natthapumin klammat" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="natthapumin klammat" height="30"/></a>
 <a href="https://fb.com/natthapumin klammat" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="natthapumin klammat" height="30" /></a>
-<a href="https://instagram.com/s.ntpumin" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="s.ntpumin" height="30"/></a>
+<a href="https://instagram.com/s.xanexer" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="s.ntpumin" height="30"/></a>
 </div>
 <br>
 
