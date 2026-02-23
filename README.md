@@ -32,6 +32,7 @@ This keeps it detailed yet compact. Let me know if you need further tweaks! 😊
 <img src='https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white' height='30'>&nbsp; 
 <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white' height='30'>&nbsp; 
   <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' alt='java' height='30'>&nbsp;
+    <img src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' height='30'>&nbsp; 
 <p align="Center"> 
 </div>
 
@@ -66,7 +67,6 @@ This keeps it detailed yet compact. Let me know if you need further tweaks! 😊
   <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' height='30'>&nbsp; 
   <img src='https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' height='30'>&nbsp; 
   <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white' height='30'>&nbsp; 
-  <img src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' height='30'>&nbsp; 
   <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' height='30'>&nbsp; 
   <img src='https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white' height='30'>&nbsp; 
 </div>
