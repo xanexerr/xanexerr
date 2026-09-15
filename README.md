@@ -1,84 +1,165 @@
 <h1 align="left">👩‍💻 Hi there !!</h1>
-<p align="left">I'm Xanexer, but you can call me Xan or Sand. A passionate software developer.
 
-I studied at Hatyai Technical College (2021–2024) and earned my Vocational Certificate. Currently, I'm pursuing my studies in DST at the Faculty of ICT, Mahidol University, since 2024.
+<p align="left">
+I'm <b>Xanexer</b>, but you can call me <b>Xan</b>.
 
-Passionate about web development, programming, and technology, always eager to learn and improve my skills.
+I'm currently studying <b>Digital Science and Technology (DST)</b> at the Faculty of ICT, Mahidol University.
+
+I enjoy building software across backend, web, and mobile development. My current interests are <b>Backend Development, DevOps, Cloud, and Cybersecurity</b>, and I'm always exploring new technologies and improving the way I build software.
+
+Most of the things you'll find here are university projects, personal projects, experiments, and things I've built while learning.
 
 Let's build something awesome together! 🚀
+</p>
 
-This keeps it detailed yet compact. Let me know if you need further tweaks! 😊</p>
-
-<div align="left">
-<h3 align="LEft">💼 Contact </h3>
-<a href="https://linkedin.com/in/natthapumin klammat" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="natthapumin klammat" height="30"/></a>
-<a href="https://fb.com/natthapumin klammat" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="natthapumin klammat" height="30" /></a>
-<a href="https://instagram.com/s.xanexer" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="s.ntpumin" height="30"/></a>
-</div>
 <br>
 
 <div align="left">
-<h2 align="left">🛠 Available tools<br></h2>
-<img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='html5' height='30'>&nbsp;
-<img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='css3' height='30'>&nbsp;
-<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='javascript' height='30'>&nbsp;
-<img src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white' alt='php' height='30'>&nbsp;
-<img src='https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white' alt='sql' height='30'>&nbsp;
-<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='python' height='30'>&nbsp;
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="30" alt="dot-net logo"  />
-<img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='30'>&nbsp;
-<img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='git' height='30'>&nbsp;
-<img src='https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD' height='30'>&nbsp;
-<img src='https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white' height='30'>&nbsp; 
-<img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white' height='30'>&nbsp; 
-<img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' alt='java' height='30'>&nbsp;
-<img src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white' height='30'>&nbsp; 
-<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='react' height='30'>&nbsp;
-<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='typescript' height='30'>&nbsp;
-    <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' height='30'>&nbsp;
-    <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' height='30'>&nbsp; 
-<p align="Center"> 
+
+## 🛠️ Technologies & Tools
+
+### 💻 Languages
+
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30">&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30">&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="30">&nbsp;
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30">&nbsp;
+<img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" height="30">&nbsp;
+
+### 🌐 Frontend & Mobile
+
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="30">&nbsp;
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="30">&nbsp;
+
+### 🗄️ Database
+
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30">&nbsp;
+
+### ☁️ DevOps & Cloud
+
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30">&nbsp;
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white" height="30">&nbsp;
+
+### 🔧 Development Tools
+
+<img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" height="30">&nbsp;
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30">&nbsp;
+
+### 🔐 Security
+
+<img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Web_Security-F44336?style=for-the-badge&logo=securityscorecard&logoColor=white" height="30">&nbsp;
+
 </div>
+
+<br>
 
 <div align="left">
-<h3>Software</h3>
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" height='30'>&nbsp;
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" alt='sql' height='30'>&nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" height='30'>&nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" height='30'>&nbsp;
-<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="netbean" height='30'>&nbsp;
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height='30'>&nbsp;
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" height='30'>&nbsp;
-<!-- <img src="" height='30'>&nbsp; -->
-<br>
-</div>
-<br>
 
+## 🎨 Creative Tools
+
+<img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-%239999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30">&nbsp;
+
+</div>
+
+<br>
 
 <div align="left">
-<h3>Interested and studying</h3>
 
-  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' alt='nextjs' height='30'>&nbsp;
-  <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='mongo' height='30'>&nbsp;
-  <img src='https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white' alt='kotlin' height='30'>&nbsp;
-  <img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' alt='c' height='30'>&nbsp;
-  <img src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white' alt='c#' height='30'>&nbsp;
-  <img src='https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white' alt='laravel' height='30'>&nbsp;
-  <img src='https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D' alt='vuejs' height='30'>&nbsp;
-  <img src='https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white' alt='go' height='30'>&nbsp;
-  <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' height='30'>&nbsp; 
-  <img src='https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' height='30'>&nbsp; 
-  <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white' height='30'>&nbsp; 
-  <img src='https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white' height='30'>&nbsp; 
+## 🌱 Currently Exploring
+
+I'm currently going deeper into:
+
+- Backend architecture & API design
+- DevOps & CI/CD
+- AWS & Cloud Infrastructure
+- Web Application Security
+- Automated Testing & Software Quality
+- Containers & Kubernetes
+
 </div>
+
 <br>
-    <img src='https://trophy.ryglcloud.net/?username=xanexerr'>&nbsp; 
 
-<!--
-<div align="center">
-<h2 align="Center">Coding Status</h3>
-<div align="center">
-  --->
+<div align="left">
+
+## 💼 Experience
+
+**Full Stack Developer Intern**  
+Consular Department Information Center (CDIC)  
+Department of Consular Affairs, Ministry of Foreign Affairs of Thailand
+
+Worked with full-stack web applications, databases, APIs, debugging, and existing production codebases while learning more about application security, permissions, transactions, and data integrity.
+
+**Java OOP Lab Assistant**  
+Faculty of ICT, Mahidol University
+
+Assisted students during Java Object-Oriented Programming laboratory sessions and helped with programming concepts, debugging, and exercises.
+
 </div>
+
+<br>
+
+<div align="left">
+
+## 🎓 Education
+
+**Digital Science and Technology (DST)**  
+Faculty of ICT, Mahidol University  
+2024 – Present
+
+**Vocational Certificate**  
+Hatyai Technical College  
+2021 – 2024
+
+</div>
+
+<br>
+
+<div align="left">
+
+## 💼 Contact
+
+<a href="https://linkedin.com/in/natthapumin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+</a>
+
+<a href="https://instagram.com/s.xanexer" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="30">
+</a>
+
+</div>
+
+<br>
+
+<div align="left">
+
+## 📊 GitHub
+
+<img src="https://trophy.ryglcloud.net/?username=xanexerr">
 
 </div>
