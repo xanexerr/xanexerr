@@ -66,25 +66,10 @@ Let's build something awesome together! 🚀
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30">&nbsp;
 
-### 🔐 Security
-
-<img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Web_Security-F44336?style=for-the-badge&logo=securityscorecard&logoColor=white" height="30">&nbsp;
-
 </div>
 
 <br>
 
-<div align="left">
-
-## 🎨 Creative Tools
-
-<img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-%239999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" height="30">&nbsp;
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30">&nbsp;
-
-</div>
 
 <br>
 
