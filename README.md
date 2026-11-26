@@ -154,12 +154,4 @@ Hatyai Technical College
 
 </div>
 
-<br>
-
-<div align="left">
-
-## 📊 GitHub
-
-<img src="https://trophy.ryglcloud.net/?username=xanexerr">
-
 </div>
