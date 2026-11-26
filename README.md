@@ -1,15 +1,7 @@
-<h1 align="left">👩‍💻 Hi there !!</h1>
+<h1 align="left">Welcome To My Profile !!</h1>
 
 <p align="left">
-I'm <b>Xanexer</b>, but you can call me <b>Xan</b>.
-
-I'm currently studying <b>Digital Science and Technology (DST)</b> at the Faculty of ICT, Mahidol University.
-
-I enjoy building software across backend, web, and mobile development. My current interests are <b>Backend Development, DevOps, Cloud, and Cybersecurity</b>, and I'm always exploring new technologies and improving the way I build software.
-
-Most of the things you'll find here are university projects, personal projects, experiments, and things I've built while learning.
-
-Let's build something awesome together! 🚀
+Currently Interest in DevOps
 </p>
 
 <br>
