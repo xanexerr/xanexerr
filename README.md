@@ -8,14 +8,14 @@ Currently Interest in DevOps
 
 <div align="left">
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
-### ⚙️ Backend
+### Backend
 <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30">&nbsp;
 <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="30">&nbsp;
 
-### 🌐 Frontend & Mobile
+### Frontend & Mobile
 <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="30">&nbsp;
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="30">&nbsp;
@@ -23,12 +23,12 @@ Currently Interest in DevOps
 <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="30">&nbsp;
 
-### 🗄️ Database
+### Database
 
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30">&nbsp;
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30">&nbsp;
@@ -36,7 +36,7 @@ Currently Interest in DevOps
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30">&nbsp;
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white" height="30">&nbsp;
 
-### 🔧 Development Tools
+### Development Tools
 
 <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" height="30">&nbsp;
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" height="30">&nbsp;
@@ -51,7 +51,7 @@ Currently Interest in DevOps
 
 <div align="left">
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 I'm currently going deeper into:
 
@@ -68,7 +68,7 @@ I'm currently going deeper into:
 
 <div align="left">
 
-## 💼 Experience
+## Experience
 
 **Full Stack Developer Intern**  
 Consular Department Information Center (CDIC)  
@@ -87,7 +87,7 @@ Assisted students during Java Object-Oriented Programming laboratory sessions an
 
 <div align="left">
 
-## 🎓 Education
+## Education
 
 **Digital Science and Technology (DST)**  
 Faculty of ICT, Mahidol University  
@@ -103,7 +103,7 @@ Hatyai Technical College
 
 <div align="left">
 
-## 💼 Contact
+## Contact
 
 <a href="https://linkedin.com/in/natthapumin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
